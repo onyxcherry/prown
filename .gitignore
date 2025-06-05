@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+lodepng.cpp
+
+program
+program_parallel
+main_cuda
